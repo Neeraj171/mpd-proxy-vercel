@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/spanning_ads.mpd", "dest": "/api/mpd" }
+  ]
+}
